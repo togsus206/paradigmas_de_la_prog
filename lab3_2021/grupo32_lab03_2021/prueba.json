@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.chicagotribune.com/arcio/rss/category/business/?query=display_date:[now-2d+TO+now]&sort=display_date:desc",
+        "feeds": [],
+        "name": "rss"
+    },
+    {
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/%s.xml",
+        "feeds": ["Business", "Technology"],
+        "name": "rss"
+    },
+    {
+        "url" : "https://rss.nytimes.com/services/xml/rss/nyt/%s.xml",
+        "feeds": [],
+        "name": "rss"
+    },
+    {
+        "url": "hola wacho",
+        "feeds": [],
+        "name": "reddit"
+    }
+]
